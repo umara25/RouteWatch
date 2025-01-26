@@ -1,0 +1,2 @@
+RouteWatch enables Kingston residents to report road issues they encounter, such as potholes, accidents, or other hazards. Users can upload a photo, provide a brief description, and pin the location within the app. These reports are sent to city officials in Kingston for action and are displayed on a live map for public viewing. Problem areas are marked in red, helping users identify hazards. Additionally, the app provides real-time navigation to the safest and most efficient alternative routes, making travel in Kingston faster and safer.
+
